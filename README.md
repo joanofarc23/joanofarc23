@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @joanofarc23
-- 👀 I’m interested in learning developer tools in order to build a new career path
+- 👀 I’m learning github for a new career
 - 🌱 I’m currently learning everything I can from ground zero. Any advice is much appreciated
-- 💞️ I’m looking to collaborate on projects to help me prep for a future bootcamp
+- 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me 
 
 <!---
